@@ -1,0 +1,7 @@
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\obj\Debug\Loopandconditionaleg.csprojAssemblyReference.cache
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\obj\Debug\Loopandconditionaleg.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\bin\Debug\Loopandconditionaleg.exe.config
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\bin\Debug\Loopandconditionaleg.exe
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\bin\Debug\Loopandconditionaleg.pdb
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\obj\Debug\Loopandconditionaleg.exe
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day2\Loopandconditionaleg\obj\Debug\Loopandconditionaleg.pdb
